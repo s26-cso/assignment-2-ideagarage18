@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hershijaiswal/Documents/sem2/CSO/assignment-2-ideagarage18/q4",
+      "program": "/Users/hershijaiswal/Documents/sem2/CSO/assignment-2-ideagarage18/q4/build/Debug/outDebug"
+    }
+  ]
+}
